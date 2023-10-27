@@ -5,6 +5,9 @@ A custom theme for glitch-soc (mastodon) that is dark-pink!
 
 > Additionally, this theme is designed to be fairly resiliant to altering the accent colour. It is less resiliant for changing to be a light theme, but if you feel up to the work, go ahead!
 
+# Installation
+
+This repository is laid out so you can just drag and drop the root folder of this into the root folder of your instance.
 
 # Licensing
 
